@@ -1,2 +1,2 @@
-# ist_718_final
-Final project for IST 718 - Big Data
+# ist_736_final
+Final project for IST 736
